@@ -1,0 +1,33 @@
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\appsettings.json
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Sevicio de Facturacion.exe
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Sevicio de Facturacion.deps.json
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Sevicio de Facturacion.runtimeconfig.json
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Sevicio de Facturacion.dll
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Sevicio de Facturacion.pdb
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.csproj.AssemblyReference.cache
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.AssemblyInfoInputs.cache
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.AssemblyInfo.cs
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\staticwebassets\msbuild.Sevicio de Facturacion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\staticwebassets\msbuild.build.Sevicio de Facturacion.props
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Sevicio de Facturacion.props
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Sevicio de Facturacion.props
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\scopedcss\bundle\Sevicio de Facturacion.styles.css
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.csproj.CopyComplete
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.dll
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\refint\Sevicio de Facturacion.dll
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.pdb
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\Sevicio de Facturacion.genruntimeconfig.cache
+C:\Users\hamta\Desktop\ep21\Sevicio de Facturacion\obj\Debug\net7.0\ref\Sevicio de Facturacion.dll
